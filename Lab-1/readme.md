@@ -1,1 +1,1 @@
-# ENSE374 first lab
+# ENSE374 first lab talking about git
