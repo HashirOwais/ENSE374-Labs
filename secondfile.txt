@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello my name is hashir 
 i love men
 thanks 
@@ -22,3 +23,5 @@ my name is hashir
 
 
 
+=======
+>>>>>>> parent of 588ce78 (5th commit)
